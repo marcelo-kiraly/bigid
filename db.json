@@ -1,9 +1,7 @@
 {
-
-    "status":"success",
     "objects":[
         {
-            "objectName":"Addresses.csv",
+            "objectName":"Addresses",
             "fields":[
                 {
                     "fieldName":"Username",
@@ -32,7 +30,7 @@
             ]
         },
         {
-            "objectName":"Demographics.csv",
+            "objectName":"Demographics",
             "fields":[
                 {
                     "fieldName":"UserID",
@@ -57,7 +55,7 @@
             ]
         },
         {
-            "objectName":"Devices.csv",
+            "objectName":"Devices",
             "fields":[
                 {
                     "fieldName":"Email",
@@ -82,7 +80,7 @@
             ]
         },
         {
-            "objectName":"Legacy.csv",
+            "objectName":"Legacy",
             "fields":[
                 {
                     "fieldName":"FirstName",
@@ -107,7 +105,7 @@
             ]
         },
         {
-            "objectName":"Transactions.csv",
+            "objectName":"Transactions",
             "fields":[
                 {
                     "fieldName":"UserID",
