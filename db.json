@@ -1,15 +1,16 @@
 {
-  "objects": [
+  "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "objects": 1,
+      "title": "Post 1",
+      "name": "bigid"
     },
     {
-      "id": 2,
+      "objects": 2,
       "title": "Post 2"
     },
     {
-      "id": 3,
+      "objects": 3,
       "title": "Post 3"
     }
   ],
